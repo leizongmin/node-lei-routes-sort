@@ -1,6 +1,6 @@
 {
   "name": "lei-routes-sort",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "node-lei-routes-sort\r ====================",
   "main": "lib/index.js",
   "scripts": {
