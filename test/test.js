@@ -37,4 +37,4 @@ console.log(jsonStringify(r.getRoutes().map(function (item) {
 
 app = require('express')();
 r.register(app);
-console.log(app._router.stack);
+//console.log(app._router.stack);
