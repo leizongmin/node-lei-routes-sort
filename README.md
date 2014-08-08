@@ -23,7 +23,7 @@ $ npm install lei-routes-sort
 
 使用方法：
 
-```
+```javascript
 var router = require('lei-routes-sort').create();
 
 // 像express那样注册路由
