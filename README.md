@@ -1,6 +1,8 @@
 只需要增加两行代码，轻松解决路由冲突！
 ========
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/leizongmin/node-lei-routes-sort.svg)](https://greenkeeper.io/)
+
 当你注册路由顺序为
 
 + /hello/:name
